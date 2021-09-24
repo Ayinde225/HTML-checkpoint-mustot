@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 4px solid rgb(0, 89, 255);
+    border-radius: 10px;
+    color: rgba(174, 189, 107, 0.897);
+    background-color: darkslategray;
+}
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+}
+nav.menu-nav ul li.btn{
+    display: inline-block;
+}
+nav.menu-nav ul li.btn a{
+    color: red;
+    text-decoration: none;
+    padding: 10px;
+}
